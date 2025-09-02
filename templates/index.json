@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Browse our latest p</p>",
+            "text": "<p>Browse o latest p</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
